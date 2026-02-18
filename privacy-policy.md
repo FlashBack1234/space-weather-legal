@@ -68,9 +68,9 @@ We may update this privacy policy from time to time. Changes will be reflected i
 
 For questions about this privacy policy, please contact us at:
 
-**Email:** [your-email@example.com]
+**Email:** Flashbackdevelopment@gmail.com
 
-**GitHub:** [https://github.com/your-username/space-weather-app](https://github.com/your-username/space-weather-app)
+**GitHub:** [https://github.com/FlashBack1234/space-weather-legal](https://github.com/FlashBack1234/space-weather-legal)
 
 ## Your Rights
 
